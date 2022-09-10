@@ -1,4 +1,4 @@
-# Physics-Based-Labyrinth-Game
+# Physics Based Labyrinth Game
 Game developed in Unity to fulfill my VideoGame-Physics Assignment.
 
 PDF in repo details the Unity physics components used.
