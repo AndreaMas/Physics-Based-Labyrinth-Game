@@ -8,6 +8,8 @@ PDF detailing the Unity physics components used: in this repo.
 
 Youtube Gameplay: https://youtu.be/u_5miEU_jJY
 
+Play the game here: https://aramas.itch.io/physics-labyrinth-game
+
 
 
 
