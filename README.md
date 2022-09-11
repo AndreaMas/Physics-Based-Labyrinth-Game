@@ -4,7 +4,7 @@
 
 Game developed for the VideoGame-Physics Assignment. Made with Unity.
 
-PDF detailing the Unity physics components used: in this repo.
+Further details: PDF in this repo.
 
 Youtube Gameplay: https://youtu.be/u_5miEU_jJY
 
